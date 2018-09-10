@@ -1,1 +1,1 @@
-Tutorial 2. Linear Regression and Logistic Regression
+Assignment on Logictic Regression
